@@ -14,6 +14,7 @@ If you want to practice curated list of LeetCode problems organized by patterns,
 - [How to Start LeetCode](https://blog.algomaster.io/p/how-to-start-leetcode-in-2025)
 - [How I Mastered DSA](https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms)
 - [Comprehensive DSA GUide](https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-structure-and-algorithm-study-guide)
+- [Java Time Complexities of All Built-in Methods (String, StringBuilder, List, Set, Map, Queue, Stack)](https://leetcode.com/discuss/interview-question/5498326/Java-Time-Complexities-of-All-Built-in-Methods-(String-StringBuilder-List-Set-Map-Queue-Stack)/)
 
 ## 📌 Fundamental Concepts
 - [Algorithmic Complexity](https://blog.algomaster.io/p/57bd4963-462f-4294-a972-4012691fc729)
