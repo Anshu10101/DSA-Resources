@@ -1,7 +1,6 @@
 
 This repository contains awesome LeetCode resources to learn Data Structures and Algorithms (DSA) and prepare for Coding interviews.
 
-If you want to practice curated list of LeetCode problems organized by patterns, checkout [AlgoMaster.io](https://algomaster.io)
 ## 💡 Tips
 - [How to get Started with DSA and practice LeetCode efficiently](https://leetcode.com/discuss/study-guide/2009997/how-to-get-started-with-dsa-and-practice-leetcode-efficiently)
 - [How to Start LeetCode](https://blog.algomaster.io/p/how-to-start-leetcode-in-2025)
